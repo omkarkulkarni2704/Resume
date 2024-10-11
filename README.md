@@ -1,7 +1,7 @@
 <h1 <p align="center">
   OMKAR KULKARNI  <br> 
   
- +918007073371 | omkarkulkarni2704@gmail.com | <a href="https://www.linkedin.com/in/omkar-kulkarni-6540b6203/" target="_blank"> LinkedIn </a>  | <a href="https://github.com/omkarkulkarni2704" target="_blank"> GitHub </a>
+ omkarkulkarni2704@gmail.com | <a href="https://www.linkedin.com/in/omkar-kulkarni-6540b6203/" target="_blank"> LinkedIn </a>  | <a href="https://github.com/omkarkulkarni2704" target="_blank"> GitHub </a>
  </p>
 </h1>  
 
