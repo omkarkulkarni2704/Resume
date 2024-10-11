@@ -32,9 +32,9 @@ maintenance of software applications. <br>
 • Users receive notifications of the accuracy of their answers upon selection, increasing in user confidence and retention. <br>
 
 **Drowsiness Detection System** | ***Python, OpenCV*** | Sep 2022 – Apr 2023 <br>
-• Enhanced road safety by leading the development of a drowsiness detection system, significantly reducing the risk of accidents <br>
+• Enhanced road safety by leading the development of a drowsiness detection system, significantly reducing the risk of accidents
 due to drowsiness. <br>
-• Utilized a face detection algorithm, accurately identify, and continuously monitoring the individual’s face within the camera <br> 
+• Utilized a face detection algorithm, accurately identify, and continuously monitoring the individual’s face within the camera 
 with high accuracy. <br>
 
 ### TECHNICAL SKILLS
