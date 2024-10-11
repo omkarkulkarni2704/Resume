@@ -12,7 +12,7 @@
 ### EXPERIENCE
 **Exposys Data Labs** |  ***Software Developer Intern***  | Apr 2023 – Jun 2023 | Remote, IN <br>
 • Developed a language translator application using Java, Spring Boot, integrating an API for real-time translation services. <br>
-• Implemented a responsive frontend with HTML, CSS, and Bootstrap, utilizing AJAX for seamless communication between frontend <br>
+• Implemented a responsive frontend with HTML, CSS, and Bootstrap, utilizing AJAX for seamless communication between frontend
   and backend. <br>
 
 **Zensar Technologies Ltd.** | ***Apprentice ESD Trainee*** | Sep 2021 – Dec 2021 |  Remote, IN <br>
