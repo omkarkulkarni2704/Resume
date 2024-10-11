@@ -17,7 +17,7 @@
 
 **Zensar Technologies Ltd.** | ***Apprentice ESD Trainee*** | Sep 2021 – Dec 2021 |  Remote, IN <br>
 • Completed a comprehensive employability skill development program, refining proficiency in Java, SQL, and Manual Testing.<br>
-• Implemented new testing methods, resulting in a reduction in software bugs. Facilitated efficient development and streamlined <br>
+• Implemented new testing methods, resulting in a reduction in software bugs. Facilitated efficient development and streamlined
 maintenance of software applications. <br>
 
 ### PROJECTS
