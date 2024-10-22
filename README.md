@@ -7,7 +7,7 @@
 
 ### EDUCATION
 **JSPMs Jayawantrao Sawant College of Engineering, Pune** |  Aug 2019 – Jul 2023 <br>
-***B.E in Electronics and Telecommunication  CGPA: 7.84 / 10*** | Pune, IN
+***B.E in Electronics and Telecommunication*** | ***CGPA: 7.84 / 10*** | Pune, IN
 
 ### EXPERIENCE
 **Exposys Data Labs** |  ***Software Developer Intern***  | Apr 2023 – Jun 2023 | Remote, IN <br>
